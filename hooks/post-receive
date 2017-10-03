@@ -1,0 +1,2 @@
+#!/bin/sh
+git --work-tree=/root/AutoBuild/demo2 --git-dir=https://github.com/Legio-Augusta/docker-autobuild-demo.git checkout -f
